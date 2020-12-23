@@ -29,3 +29,5 @@ C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-as
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.genruntimeconfig.cache
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.csproj.CopyComplete
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs

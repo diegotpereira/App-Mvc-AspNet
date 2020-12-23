@@ -14392,6 +14392,16 @@
   "RootNamespace": "app_mvc_aspnet",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
