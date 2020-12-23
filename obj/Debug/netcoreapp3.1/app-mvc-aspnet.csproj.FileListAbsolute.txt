@@ -19,7 +19,6 @@ C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-as
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.TagHelpers.input.cache
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.TagHelpers.output.cache
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.RazorCoreGenerate.cache
-C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\Razor\Controllers\Models\Views\Home\Index.cshtml.g.cs
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.RazorTargetAssemblyInfo.cache
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.RazorTargetAssemblyInfo.cs
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.Views.pdb
@@ -29,3 +28,4 @@ C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-as
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.pdb
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.genruntimeconfig.cache
 C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\app-mvc-aspnet.csproj.CopyComplete
+C:\Users\T.I\Documents\Asp.Net\app-mvc-aspnet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs

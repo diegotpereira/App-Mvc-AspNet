@@ -14392,8 +14392,8 @@
   "RootNamespace": "app_mvc_aspnet",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Controllers\\Models\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Controllers\\Models\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
