@@ -14405,6 +14405,11 @@
       "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\T.I\\Documents\\Asp.Net\\app-mvc-aspnet\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
